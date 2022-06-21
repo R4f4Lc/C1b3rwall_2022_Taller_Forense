@@ -1,0 +1,22 @@
+Return-Path: <info@bankio.es>
+X-SpamCatcher-Score: 1 [X]
+Received: from localhost (bankio.es.ru [192.168.124.4])
+    with ESMTP-TLS id 61258719 for usuario@gmail.com; Fri, 19 Apr 2019 14:23:24
+Message-ID: <4129F3CA.2020509@bankio>
+Date: Fri, 19 Apr 2019 14:23:24
+From: Información Cuenta Bancaria <info@bankio.es>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.0.1) Gecko/20020823 Netscape/7.0
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: Usuario <usuario@gmail.com>
+Subject: Nuevas Políticas
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: base64
+Message Body: 
+Buenas tardes,
+le escribimos para informarle que ha habido un cambio en nuestras políticas de uso y
+deberá aceptarlas en http://ejemplomalicioso.es si quiere seguir usando nuestros servicios online.
+Para ello deberá introducir sus credenciales de su cuenta y aceptar la nueva política.
+
+Un saludo,
+Bankio Online.
